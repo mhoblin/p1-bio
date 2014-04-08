@@ -1,0 +1,14 @@
+/* Your Website Styles */
+img {
+
+	width: 400px; 
+}
+h1 {
+	color: #81D8D0;
+	text-shadow: 2px 2px 2px grey;
+}
+
+/* Show Grid */
+.showgrid {
+	background: url("../img/grid-bg.png") repeat-y;
+}
