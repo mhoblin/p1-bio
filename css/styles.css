@@ -5,7 +5,19 @@ img {
 }
 h1 {
 	color: #81D8D0;
-	text-shadow: 2px 2px 2px grey;
+	font-family: 'Bad Script', cursive;
+	letter-spacing: 4px;
+	text-transform: uppercase;
+}
+
+p {
+	line-height: 20px;
+}
+
+h3 {
+	color: darkgray;
+	font-family: 'Bad Script', cursive;
+
 }
 
 /* Show Grid */
