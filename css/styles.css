@@ -1,4 +1,8 @@
 /* Your Website Styles */
+body {
+	background: url("../img/crossword.png");
+}
+
 img {
 
 	width: 400px; 
