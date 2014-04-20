@@ -12,6 +12,17 @@ h1 {
 	font-family: 'Bad Script', cursive;
 	letter-spacing: 4px;
 	text-transform: uppercase;
+	text-align: center;
+	margin: 50px 0px 0px 0px;
+}
+h2 {
+	color: #81D8D0;
+	font-family: 'Bad Script', cursive;
+	letter-spacing: 4px;
+	text-transform: uppercase;
+	text-align: center;
+	margin: 0px 0px 50px 0px;
+	font-size: .7em;
 }
 
 p {
@@ -27,4 +38,12 @@ h3 {
 /* Show Grid */
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
+}
+
+.right {
+	text-align: right;
+}
+
+ol {
+	list-style: none;
 }
