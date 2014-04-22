@@ -9,15 +9,15 @@ img {
 }
 h1 {
 	color: #81D8D0;
-	font-family: 'Bad Script', cursive;
+	font-family: 'Berkshire Swash', 'cursive';
 	letter-spacing: 4px;
-	text-transform: uppercase;
 	text-align: center;
 	margin: 50px 0px 0px 0px;
 }
+
 h2 {
 	color: #81D8D0;
-	font-family: 'Bad Script', cursive;
+	font-family: 'Open Sans', 'sans-serif';
 	letter-spacing: 4px;
 	text-transform: uppercase;
 	text-align: center;
@@ -25,13 +25,25 @@ h2 {
 	font-size: .7em;
 }
 
-p {
-	line-height: 20px;
+
+a{
+	text-decoration: none;
+	color: #B8B8B8;
 }
 
+a:hover {
+	color: #81D8D0;
+}
+
+p {
+	line-height: 20px;
+	color: #B8B8B8;
+}
+
+
 h3 {
-	color: darkgray;
-	font-family: 'Bad Script', cursive;
+	color: #B8B8B8;
+	font-family: 'Open Sans', 'sans-serif';
 
 }
 
