@@ -29,6 +29,7 @@ h2 {
 a{
 	text-decoration: none;
 	color: #B8B8B8;
+	font-family: 'Open Sans', 'sans-serif';
 }
 
 a:hover {
@@ -38,6 +39,7 @@ a:hover {
 p {
 	line-height: 20px;
 	color: #B8B8B8;
+	font-family: 'Open Sans', 'sans-serif';
 }
 
 
