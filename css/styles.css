@@ -1,7 +1,15 @@
 /* Your Website Styles */
-body {
-	background: url("../img/crossword.png");
+#bg {
+	position: fixed;
+	top: 0;
+	left: 0;
+	min-width: 100%;
+	min-height: 100%;
 }
+
+/* source: http://css-tricks.com/perfect-full-page-background-image/; */
+
+
 
 img {
 
