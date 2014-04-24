@@ -1,10 +1,18 @@
 /* Your Website Styles */
 #bg {
+
+	/* set rules to fill background */
+	min-width: 1024px;
+	min-height: 100%;
+
+	/*set up proportionate scaling */
+	width: 100%;
+	height: auto;
+
+	/* Set up Positioning */
 	position: fixed;
 	top: 0;
 	left: 0;
-	min-width: 100%;
-	min-height: 100%;
 }
 
 /* source: http://css-tricks.com/perfect-full-page-background-image/; */
@@ -15,6 +23,7 @@ img {
 
 	width: 400px; 
 }
+
 h1 {
 	color: #81D8D0;
 	font-family: 'Berkshire Swash', 'cursive';
