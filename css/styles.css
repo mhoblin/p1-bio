@@ -1,5 +1,5 @@
 /* Your Website Styles */
-#bg {
+img.bg {
 
 	/* set rules to fill background */
 	min-width: 1024px;
@@ -13,6 +13,15 @@
 	position: fixed;
 	top: 0;
 	left: 0;
+}
+
+@media screen and (max-width: 1024px) {
+	/* specific to this particular image */
+	img.bg {
+		left: 50%;
+		margin-left: -512px;	/* 50% */
+	}
+
 }
 
 /* source: http://css-tricks.com/perfect-full-page-background-image/; */
