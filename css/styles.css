@@ -1,9 +1,15 @@
 /* Your Website Styles */
-img.bg {
-
-	/* set rules to fill background */
-	min-width: 1024px;
+body {
+	
+}
+body {
+	background: img("../img/bird-girl.png");
 	min-height: 100%;
+	color: #FFF;
+	height: 100%;
+	background: url("../img/bird-girl.png") center bottom no-repeat #FFF;
+	background-size: cover;
+}
 
 	/*set up proportionate scaling */
 	width: 100%;
